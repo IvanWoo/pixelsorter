@@ -92,3 +92,7 @@ ENV/
 .DS_Store
 
 test/data/*
+
+# temp img files
+input/*
+output/*
